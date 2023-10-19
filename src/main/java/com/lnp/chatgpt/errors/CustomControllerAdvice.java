@@ -1,4 +1,4 @@
-package com.farvic.rpg.errors;
+package com.lnp.chatgpt.errors;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

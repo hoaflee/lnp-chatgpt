@@ -1,6 +1,5 @@
 package com.farvic.rpg.repositories;
 
-import com.farvic.rpg.domain.Character;
 import jakarta.persistence.PersistenceContext;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Nested;
@@ -10,6 +9,9 @@ import org.springframework.boot.test.autoconfigure.jdbc.AutoConfigureTestDatabas
 import org.springframework.boot.test.autoconfigure.orm.jpa.DataJpaTest;
 import org.springframework.boot.test.autoconfigure.orm.jpa.TestEntityManager;
 import org.springframework.context.annotation.Import;
+
+import com.lnp.chatgpt.domain.Character;
+import com.lnp.chatgpt.repositories.CharacterRepository;
 
 import java.util.List;
 

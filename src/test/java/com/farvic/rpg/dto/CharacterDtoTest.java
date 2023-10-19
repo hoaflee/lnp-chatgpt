@@ -3,6 +3,8 @@ package com.farvic.rpg.dto;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
+import com.lnp.chatgpt.dto.CharacterDto;
+
 import static org.junit.jupiter.api.Assertions.*;
 
 class CharacterDtoTest {

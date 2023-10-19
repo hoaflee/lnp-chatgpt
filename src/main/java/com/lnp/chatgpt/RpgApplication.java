@@ -1,4 +1,4 @@
-package com.farvic.rpg;
+package com.lnp.chatgpt;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

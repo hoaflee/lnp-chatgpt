@@ -1,6 +1,4 @@
-package com.farvic.rpg.repositories;
-
-import com.farvic.rpg.domain.Character;
+package com.lnp.chatgpt.repositories;
 
 import io.swagger.v3.oas.annotations.tags.Tag;
 
@@ -9,6 +7,8 @@ import org.springframework.data.jpa.repository.Query;
 import org.springframework.data.repository.query.Param;
 import org.springframework.data.rest.core.annotation.RestResource;
 import org.springframework.stereotype.Repository;
+
+import com.lnp.chatgpt.domain.Character;
 
 import java.util.List;
 import java.util.Optional;

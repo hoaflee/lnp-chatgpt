@@ -1,11 +1,5 @@
 package com.farvic.rpg.web;
 
-import com.farvic.rpg.domain.Character;
-import com.farvic.rpg.dto.CharacterDto;
-import com.farvic.rpg.service.CharacterService;
-
-
-import com.farvic.rpg.utils.CharacterDtoMapper;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Nested;
 import org.junit.jupiter.api.Test;
@@ -19,6 +13,11 @@ import org.springframework.mock.web.MockHttpServletResponse;
 import org.springframework.test.context.junit.jupiter.SpringExtension;
 import org.springframework.test.web.servlet.MockMvc;
 
+import com.lnp.chatgpt.domain.Character;
+import com.lnp.chatgpt.dto.CharacterDto;
+import com.lnp.chatgpt.service.CharacterService;
+import com.lnp.chatgpt.utils.CharacterDtoMapper;
+import com.lnp.chatgpt.web.CharacterController;
 
 import java.util.List;
 

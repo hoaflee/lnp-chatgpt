@@ -1,4 +1,4 @@
-package com.farvic.rpg.dto;
+package com.lnp.chatgpt.dto;
 
 import jakarta.annotation.Nonnull;
 

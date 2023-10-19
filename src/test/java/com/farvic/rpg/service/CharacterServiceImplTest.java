@@ -1,8 +1,5 @@
 package com.farvic.rpg.service;
 
-import com.farvic.rpg.domain.Character;
-import com.farvic.rpg.errors.CharacterNotFoundException;
-import com.farvic.rpg.repositories.CharacterRepository;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.extension.ExtendWith;
@@ -10,6 +7,10 @@ import org.mockito.InjectMocks;
 import org.mockito.Mock;
 import org.mockito.junit.jupiter.MockitoExtension;
 
+import com.lnp.chatgpt.domain.Character;
+import com.lnp.chatgpt.errors.CharacterNotFoundException;
+import com.lnp.chatgpt.repositories.CharacterRepository;
+import com.lnp.chatgpt.service.CharacterServiceImpl;
 
 import java.util.Collections;
 import java.util.List;

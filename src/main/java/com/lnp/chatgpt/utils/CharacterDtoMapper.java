@@ -1,9 +1,9 @@
-package com.farvic.rpg.utils;
+package com.lnp.chatgpt.utils;
 
-import com.farvic.rpg.dto.CharacterDto;
-
-import com.farvic.rpg.domain.Character;
 import org.springframework.stereotype.Component;
+
+import com.lnp.chatgpt.domain.Character;
+import com.lnp.chatgpt.dto.CharacterDto;
 
 @Component
 public class CharacterDtoMapper {

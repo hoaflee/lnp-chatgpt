@@ -1,17 +1,16 @@
-package com.farvic.rpg.web;
+package com.lnp.chatgpt.web;
 
-import com.farvic.rpg.domain.Character;
-
-import com.farvic.rpg.dto.CharacterDto;
-import com.farvic.rpg.service.CharacterService;
-
-import com.farvic.rpg.utils.CharacterDtoMapper;
 import io.swagger.v3.oas.annotations.Operation;
 import io.swagger.v3.oas.annotations.responses.ApiResponse;
 import io.swagger.v3.oas.annotations.tags.Tag;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
+
+import com.lnp.chatgpt.domain.Character;
+import com.lnp.chatgpt.dto.CharacterDto;
+import com.lnp.chatgpt.service.CharacterService;
+import com.lnp.chatgpt.utils.CharacterDtoMapper;
 
 import java.util.*;
 

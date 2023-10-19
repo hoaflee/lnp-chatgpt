@@ -1,47 +1,3 @@
-<!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
-<a name="readme-top"></a>
-<!--
-*** Thanks for checking out the Best-README-Template. If you have a suggestion
-*** that would make this better, please fork the repo and create a pull request
-*** or simply open an issue with the tag "enhancement".
-*** Don't forget to give the project a star!
-*** Thanks again! Now go create something AMAZING! :D
--->
-
-<!-- PROJECT SHIELDS -->
-<!--
-*** I'm using markdown "reference style" links for readability.
-*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
-*** See the bottom of this document for the declaration of the reference variables
-*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
-*** https://www.markdownguide.org/basic-syntax/#reference-style-links
--->
-
-<!-- PROJECT LOGO -->
-<!-- <br />
-<div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
-
-  </a>
-
-  <h3 align="center">Best-README-Template</h3>
-
-  <p align="center">
-    An awesome README template to jumpstart your projects!
-    <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
-    ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
-  </p>
-</div> -->
-[![LinkedIn][linkedin-shield]][linkedin-url]
-[![GitHub Workflow Status (with branch)](https://img.shields.io/github/actions/workflow/status/farvic/spring-boot-template-repo/build_test_action.yml?branch=main&label=tests&logo=github&style=for-the-badge)](https://github.com/farvic/spring-boot-template-repo/actions/workflows/build_test_action.yml)
-
 # Spring-Boot REST API Template
 
 <!-- TABLE OF CONTENTS -->
@@ -62,9 +18,7 @@
     <li>
         <a href="#roadmap">Roadmap</a>
     </li>
-    <li>
-        <a href="#contact">Contact</a>
-    </li>
+
   </ol>
 </details>
 
@@ -93,7 +47,7 @@ This is a template for a REST API using Spring Boot. It was created to be used a
 1. . Clone the repo
 
    ```sh
-   Fork or clone the repo: https://github.com/farvic/cinema-room-spring.git
+   Fork or clone the repo: https://github.com/hoaflee/lnp-chatgpt.git
    ```
 
 2. Run using Maven or your IDE
@@ -153,31 +107,3 @@ This is a template for a REST API using Spring Boot. It was created to be used a
 
 [//]: # (CONTRIBUTING)
 
-## Contributing
-
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
-Don't forget to give the project a star! Thanks again!
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-<!-- CONTACT -->
-## Contact
-
-If you want to talk about the project, feel free to contact me through one of my socials.
-
-Victor Fonseca -  [@Linkedin](https://www.linkedin.com/in/victorfa)
-
-Project Link: [https://github.com/farvic/cinema-room-spring](https://github.com/your_username/repo_name)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-blue.svg?style=for-the-badge
-[linkedin-url]: https://linkedin.com/in/victorfa

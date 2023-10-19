@@ -1,8 +1,8 @@
-package com.farvic.rpg.service;
-
-import com.farvic.rpg.domain.Character;
+package com.lnp.chatgpt.service;
 
 import java.util.List;
+
+import com.lnp.chatgpt.domain.Character;
 
 public interface CharacterService {
 

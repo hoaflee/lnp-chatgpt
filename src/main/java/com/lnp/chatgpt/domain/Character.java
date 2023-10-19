@@ -1,4 +1,4 @@
-package com.farvic.rpg.domain;
+package com.lnp.chatgpt.domain;
 
 import com.fasterxml.jackson.annotation.JsonIgnore;
 

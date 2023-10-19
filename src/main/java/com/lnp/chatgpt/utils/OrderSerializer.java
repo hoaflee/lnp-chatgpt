@@ -1,6 +1,6 @@
-// package com.farvic.rpg.utils;
+// package com.lnp.chatgpt.utils;
 
-// import com.farvic.rpg.domain.Order;
+// import com.lnp.chatgpt.domain.Order;
 // import com.fasterxml.jackson.core.JsonGenerator;
 // import com.fasterxml.jackson.core.JsonProcessingException;
 // import com.fasterxml.jackson.databind.SerializerProvider;
@@ -29,5 +29,6 @@
 // jgen.writeObjectField("ticket", order.getTicket());
 // jgen.writeEndObject();
 // }
-
 // }
+
+

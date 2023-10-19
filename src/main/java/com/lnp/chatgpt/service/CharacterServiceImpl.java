@@ -1,12 +1,10 @@
-package com.farvic.rpg.service;
-
-import com.farvic.rpg.domain.Character;
-
-import com.farvic.rpg.errors.CharacterNotFoundException;
-
-import com.farvic.rpg.repositories.CharacterRepository;
+package com.lnp.chatgpt.service;
 
 import org.springframework.stereotype.Service;
+
+import com.lnp.chatgpt.domain.Character;
+import com.lnp.chatgpt.errors.CharacterNotFoundException;
+import com.lnp.chatgpt.repositories.CharacterRepository;
 
 import java.util.List;
 
